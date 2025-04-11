@@ -4,8 +4,6 @@ This repository contains an n8n workflow demonstrating how to integrate the Mode
 
 This approach utilizes the `npx` command within n8n credentials to run MCP servers on-the-fly.
 
-**Inspired by:** Simon Scrapes' Video ([Link to Video - *Replace with actual URL if available*]) and the accompanying blog post detailing this setup.
-
 ## Key Concepts
 
 * **n8n AI Agent:** A powerful node in n8n that can reason, plan, and execute tasks using Large Language Models (LLMs) and available tools.
